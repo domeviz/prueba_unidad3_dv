@@ -1,0 +1,6 @@
+2022-08-26 18:25:19 INFO  PruebaUnidad3DvApplication:20 - Prueba Unidad 3
+2022-08-26 20:20:39 INFO  PruebaUnidad3DvApplication:36 - Prueba Unidad 3
+2022-08-26 20:20:39 INFO  PruebaUnidad3DvApplication:46 - Se ha insertado el producto Producto [id=6, codigoBarras=333, nombre=Pan cacero, categoria=Panes, stock=20, precio=1]
+2022-08-26 20:20:39 INFO  PruebaUnidad3DvApplication:56 - Venta realizada
+2022-08-26 20:20:39 INFO  PruebaUnidad3DvApplication:59 - Producto encontradoProducto [id=4, codigoBarras=111, nombre=Pan de molde, categoria=Panes, stock=21, precio=1.50]
+2022-08-26 20:20:39 DEBUG PruebaUnidad3DvApplication:64 - Productos encontrados: Producto [id=4, codigoBarras=111, nombre=Pan de molde, categoria=Panes, stock=21, precio=1.50]
